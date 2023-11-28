@@ -80,10 +80,10 @@ logo =f"""
 ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    
                              
 ------------------------------------------------
-[1;37m FACEBOOK  : ABHISHEK BANTAWA RAI 
-[1;37m GITHUB      : ABHISHEKXBAU
-[1;37m VERSION   : 0.2.1
-[1;37m STATUS     :  FREE                            
+FACEBOOK  : ABHISHEK BANTAWA RAI 
+GITHUB    : ABHISHEKXBAU
+VERSION   : 0.2.1
+STATUS    :  FREE                            
 ------------------------------------------------
  """
  #------------------[ DYAR ]-------------------#
